@@ -1,0 +1,22 @@
+c:\users\admin\documents\visual studio 2012\Projects\webCrawler\webCrawler\bin\Debug\webCrawler.exe.config
+c:\users\admin\documents\visual studio 2012\Projects\webCrawler\webCrawler\bin\Debug\webCrawler.exe
+c:\users\admin\documents\visual studio 2012\Projects\webCrawler\webCrawler\bin\Debug\webCrawler.pdb
+c:\users\admin\documents\visual studio 2012\Projects\webCrawler\webCrawler\obj\Debug\webCrawler.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2012\Projects\webCrawler\webCrawler\obj\Debug\webCrawler.Form1.resources
+c:\users\admin\documents\visual studio 2012\Projects\webCrawler\webCrawler\obj\Debug\webCrawler.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2012\Projects\webCrawler\webCrawler\obj\Debug\webCrawler.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2012\Projects\webCrawler\webCrawler\obj\Debug\webCrawler.exe
+c:\users\admin\documents\visual studio 2012\Projects\webCrawler\webCrawler\obj\Debug\webCrawler.pdb
+C:\Users\Administrator\Desktop\webCrawler\webCrawler\bin\Debug\webCrawler.exe.config
+C:\Users\Administrator\Desktop\webCrawler\webCrawler\obj\Debug\webCrawler.exe
+C:\Users\Administrator\Desktop\webCrawler\webCrawler\obj\Debug\webCrawler.pdb
+C:\Users\Administrator\Desktop\webCrawler\webCrawler\bin\Debug\webCrawler.exe
+C:\Users\Administrator\Desktop\webCrawler\webCrawler\bin\Debug\webCrawler.pdb
+C:\Users\Administrator\Desktop\webCrawler\webCrawler\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Administrator\Desktop\webCrawler\webCrawler\obj\Debug\webCrawler.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\webCrawler\webCrawler\obj\Debug\webCrawler.Form1.resources
+C:\Users\Administrator\Desktop\webCrawler\webCrawler\obj\Debug\webCrawler.Properties.Resources.resources
+C:\Users\Administrator\Desktop\webCrawler\webCrawler\obj\Debug\webCrawler.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\爬虫demo\webCrawler\webCrawler\bin\Debug\webCrawler.exe.config
+C:\Users\Administrator\Desktop\爬虫demo\webCrawler\webCrawler\obj\Debug\webCrawler.exe
+C:\Users\Administrator\Desktop\爬虫demo\webCrawler\webCrawler\obj\Debug\webCrawler.pdb

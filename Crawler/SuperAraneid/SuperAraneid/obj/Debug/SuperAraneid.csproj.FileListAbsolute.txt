@@ -1,0 +1,19 @@
+G:\SuperAraneid\SuperAraneid\bin\Debug\Lorna网站图片爬虫 测试V1.0.exe.config
+G:\SuperAraneid\SuperAraneid\bin\Debug\Lorna网站图片爬虫 测试V1.0.exe
+G:\SuperAraneid\SuperAraneid\bin\Debug\Lorna网站图片爬虫 测试V1.0.pdb
+G:\SuperAraneid\SuperAraneid\obj\Debug\SuperAraneid.FrmStrat.resources
+G:\SuperAraneid\SuperAraneid\obj\Debug\SuperAraneid.FromAbout.resources
+G:\SuperAraneid\SuperAraneid\obj\Debug\SuperAraneid.Properties.Resources.resources
+G:\SuperAraneid\SuperAraneid\obj\Debug\SuperAraneid.csproj.GenerateResource.Cache
+G:\SuperAraneid\SuperAraneid\obj\Debug\Lorna网站图片爬虫 测试V1.0.exe
+G:\SuperAraneid\SuperAraneid\obj\Debug\Lorna网站图片爬虫 测试V1.0.pdb
+G:\SuperAraneid\SuperAraneid\obj\Debug\SuperAraneid.csprojResolveAssemblyReference.cache
+F:\迅雷下载\6355691313223156124905544\SuperAraneid\SuperAraneid\bin\Debug\Lorna网站图片爬虫 测试V1.0.exe.config
+F:\迅雷下载\6355691313223156124905544\SuperAraneid\SuperAraneid\obj\Debug\Lorna网站图片爬虫 测试V1.0.exe
+F:\迅雷下载\6355691313223156124905544\SuperAraneid\SuperAraneid\obj\Debug\Lorna网站图片爬虫 测试V1.0.pdb
+H:\程序\SuperAraneid\SuperAraneid\bin\Debug\Lorna网站图片爬虫 测试V1.0.exe.config
+H:\程序\SuperAraneid\SuperAraneid\obj\Debug\Lorna网站图片爬虫 测试V1.0.exe
+H:\程序\SuperAraneid\SuperAraneid\obj\Debug\Lorna网站图片爬虫 测试V1.0.pdb
+E:\程序\C#\小程序\网络爬虫\SuperAraneid\SuperAraneid\bin\Debug\Lorna网站图片爬虫 测试V1.0.exe.config
+E:\程序\C#\小程序\网络爬虫\SuperAraneid\SuperAraneid\obj\Debug\Lorna网站图片爬虫 测试V1.0.exe
+E:\程序\C#\小程序\网络爬虫\SuperAraneid\SuperAraneid\obj\Debug\Lorna网站图片爬虫 测试V1.0.pdb
